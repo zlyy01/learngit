@@ -1,3 +1,3 @@
 Today is rainning
 git is a distribute aversion control system.
-git is free software
+git is a very good and free software
